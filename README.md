@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dswai98
-- 👀 I’m interested in learning about back-end programming and data analysis.
-- 🌱 I’m currently learning Javascript through freeCodeCamp! I am working on their relational databases certification and their data visualisation certification. 
-- 💞️ I’m looking to collaborate on any javascript projects to learn more.
+- 👀 I’m interested in learning about data analysis.
+- 🌱 I’m currently learning Python (Pandas and NumPy) through a professional development program!
+- 💞️ I’m looking to collaborate and build more data analyst/ science project and build my portfolio.
 - 📫 How to reach me at my email drydenswai8@gmail.com
 
 <!---
