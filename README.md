@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dryden
 
-I'm a data analyst with a background in finance and a passion for turning raw data into clean, actionable insights. Whether it's transforming messy APIs into structured dashboards or automating financial processes, I love building tools that make data clearer and decisions smarter.
+I'm a financial analyst with a passion for turning raw data into clean, actionable insights. Whether it's transforming messy APIs into structured dashboards or automating financial processes, I love building tools that make data clearer and decisions smarter.
 
 ## 🧰 Tools & Technologies
 - **Languages & Libraries:** Python, SQL, Pandas, VBA
