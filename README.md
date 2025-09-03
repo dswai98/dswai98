@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dryden
 
-<!--
-**dswai98/dswai98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in finance and a passion for turning raw data into clean, actionable insights. Whether it's transforming messy APIs into structured dashboards or automating financial processes, I love building tools that make data clearer and decisions smarter.
 
-Here are some ideas to get you started:
+## 🧰 Tools & Technologies
+- **Languages & Libraries:** Python, SQL, Pandas, VBA
+- **Visualization:** Tableau, Power BI, Google Sheets, Excel
+- **Data Platforms:** NetSuite (Oracle), MongoDB, Salesforce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- [FPL Data Cleanup for Tableau](https://github.com/yourusername/fpl-data-cleanup-tableau)  
+  API-to-dashboard pipeline using Python, Pandas, and Tableau
+
+- *More projects coming soon...*
+
+## 🚀 Currently Learning
+- Data Modeling & ETL concepts  
+- Power BI DAX & M Language  
+- MongoDB + Tableau integrations
+
+## ✉️ Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/drydenrs2798/)  
+- Email: drydenswai8@gmail.com
